@@ -29,7 +29,7 @@ Para executar o projeto, siga os passos abaixo:
 ### 1. Baixar o repositório
 
 
-Baixe o projeto no link [Série Journal]https://github.com/yBrunoFurtado/serie-journal/
+Baixe o projeto no link: [Série Journal](https://github.com/yBrunoFurtado/serie-journal)
 ou
 Baixe o projeto compactado.
 
