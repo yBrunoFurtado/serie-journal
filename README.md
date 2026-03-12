@@ -24,11 +24,13 @@ O projeto tem como foco principal a prática de conceitos fundamentais do **Reac
 
 # Como Executar o Projeto
 
-Para executar o projeto, siga os passos a passos abaixo: 
+Para executar o projeto, siga os passos abaixo: 
 
 ### 1. Baixar o repositório
 
 
+Baixe o projeto no link [Série Journal]https://github.com/yBrunoFurtado/serie-journal/
+ou
 Baixe o projeto compactado.
 
 ---
