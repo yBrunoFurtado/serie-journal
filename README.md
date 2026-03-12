@@ -13,9 +13,9 @@ O projeto tem como foco principal a prática de conceitos fundamentais do **Reac
 
 ---
 
-# Tecnologias Utilizadas
+# Técnologias Utilizadas
 
-* **React** (principal)
+* **React** 
 * **Vite** (ferramenta de build e execução do projeto)
 * **React Router DOM** (para navegação entre páginas)
 * **CSS** (para estilização)
