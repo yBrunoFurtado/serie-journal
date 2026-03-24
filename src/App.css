@@ -47,14 +47,14 @@ button:hover{
   background:#005ec7;
 }
 
-serie-item{
-  display:flex;
+.serie-item{
+  display:grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr 1fr 1fr auto auto;
+  gap:10px;
   align-items:center;
-  justify-content:space-between;
-  gap:15px;
 
   background:#f9f9f9;
-  padding:15px;
+  padding:12px;
   border-radius:6px;
   margin-bottom:10px;
 }
