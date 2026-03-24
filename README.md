@@ -3,8 +3,6 @@
 
 ## Descrição do Projeto
 
-Olá, como vai? 
-
 Este projeto foi desenvolvido para a FASE 1 da matéria de Desenvolvimento de Sistemas frontend, na PUCRS do curso de ADS.
 
 O **Série Journal** é uma aplicação web desenvolvida em **React** com o objetivo de permitir que usuários registrem e gerenciem séries que assistiram ou desejam acompanhar. A aplicação possibilita cadastrar, visualizar, editar e excluir séries, funcionando como um pequeno diário de acompanhamento de séries, conforme o solicitado previamente.
@@ -74,6 +72,24 @@ http://localhost:5173
 Abra esse endereço em um navegador para acessar o projeto.
 
 ---
+
+## Telas do sistema
+
+### Página inicial
+![Home](./assets/home.png)
+
+### Cadastro de séries
+![Cadastro](./assets/cadastro.png)
+
+### Lista de séries
+![Lista](./assets/lista.png)
+
+
+## Demonstração do sistema
+
+O sistema permite realizar operações de cadastro, edição e exclusão de séries, conforme o gif abaixo:
+
+![Demonstração](./assets/demo.gif)
 
 # Estrutura do Projeto
 
